@@ -24,9 +24,9 @@ I enjoy solving complex data problems, optimizing pipelines, and turning messy d
 ---
 
 ### 📚 Certifications & Education
-- 🏅 Google Cloud Professional Data Engineer (Formerly Certified: 2022–2024)
+- 🏅 Google Cloud Professional Data Engineer (Recertification in May 2025)
 - 🎓 MS in Business Analytics – University at Buffalo
-- 🎓 B.Tech – IIT Guwahati
+- 🎓 B.Tech. – IIT Guwahati
 
 ---
 
