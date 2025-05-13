@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tushar Ranjan
 
-🎯 **Senior Data/Analytics Engineer** | Cloud-Native Architect | Real-Time Data Pipelines | [Google Cloud Certified](https://www.credential.net/6ef975cd-c5f0-4ce7-8d1d-d4ccaa4a5c6a#acc.fGciWbqr)
+🎯 **Senior Data/Analytics Engineer** | Cloud-Native Architect | Real-Time Data Pipelines | [Google Cloud Certified](https://www.credly.com/badges/128c66ff-bc88-4f9d-b5f0-127f58fab126/public_url)
 
 📍 Buffalo, NY | 🌐 [LinkedIn](https://linkedin.com/in/tushar-ranjan)
 
@@ -31,7 +31,7 @@ I enjoy solving complex data problems, optimizing pipelines, and turning messy d
 ---
 
 ### 🧠 Currently Exploring
-- Studying for GCP Recertification
+- Studying for GCP Artictect Certification
 - Data Contracts & Metadata Management  
 - Data Quality Frameworks  
 - Advanced dbt & Semantic Layering  
